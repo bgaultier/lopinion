@@ -2,7 +2,7 @@ L'opinion
 =========
 This is a simple poll server powered by D3.js (a js library), an  Arduino Ethernet and a GPRS shield.
 
-![Alt text](bgaultier/lopinion/lopinion.svg "L'opinion project architecture")
+![Architecture figure](bgaultier.github.com/lopinion/lopinion.svg)
 
 Installation
 ------------
