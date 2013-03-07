@@ -2,7 +2,7 @@ L'opinion
 =========
 This is a simple poll server powered by D3.js (a js library), an  Arduino Ethernet and a GPRS shield.
 
-![Architecture figure](bgaultier.github.com/lopinion/lopinion.svg)
+![Architecture figure](https://raw.github.com/bgaultier/lopinion/master/lopinion.png)
 
 Installation
 ------------
@@ -20,3 +20,4 @@ License
 
 The code is fucking public domain.
 http://creativecommons.org/licenses/publicdomain/
+
