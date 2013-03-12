@@ -19,5 +19,4 @@ License
 -------
 
 The code is fucking public domain.
-http://creativecommons.org/licenses/publicdomain/
-
+http://creativecommons.org/publicdomain/zero/1.0/
